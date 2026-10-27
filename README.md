@@ -75,6 +75,8 @@ A：可以导出后自行发布，但**请确保你拥有原素材的授权**，
 - 当前版本：v3.6.14（2026-10-26）
 - 客服 QQ：574719738
 
+> 零创是 Windows 桌面商业软件，使用需授权卡密；获取卡密请联系作者（客服 QQ 574719738）。
+
 > 完整功能、版本更新与更多专题见主仓库：[LingCraft-AI-writing-tool](https://github.com/lingxiaoyiyu-hub/LingCraft-AI-writing-tool)
 
 ## 免责声明
