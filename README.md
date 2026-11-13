@@ -72,7 +72,7 @@ A：可以导出后自行发布，但**请确保你拥有原素材的授权**，
 
 - 官方下载页（魔搭）：<https://www.modelscope.cn/models/lingxiaoyiyu/lingcraft-releases/files>
 - GitHub 发布页：<https://github.com/lingxiaoyiyu-hub/LingCraft-Release/releases>
-- 当前版本：v5.0.2（2026-11-13）
+- 当前版本：v5.0.1（2026-11-13）
 - 授权渠道：官网 xcbot.cyou
 
 > 零创是 Windows 桌面商业软件，使用需授权卡密；获取卡密请联系作者（官网授权渠道 xcbot.cyou）。
